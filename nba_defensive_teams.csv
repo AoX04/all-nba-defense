@@ -1,0 +1,539 @@
+Year,Player,Tm,defensive_team
+2020,Rudy Gobert,Utah Jazz,1
+2020,Giannis Antetokounmpo,Milwaukee Bucks,1
+2020,Anthony Davis,Los Angeles Lakers,1
+2020,Marcus Smart,Boston Celtics,1
+2020,Ben Simmons,Philadelphia 76ers,1
+2020,Brook Lopez,Milwaukee Bucks,2
+2020,Kawhi Leonard,LA Clippers,2
+2020,Bam Adebayo,Miami Heat,2
+2020,Patrick Beverley,LA Clippers,2
+2020,Eric Bledsoe,Milwaukee Bucks,2
+2020,* Official Release & voting totals,,2
+2019,Rudy Gobert,Utah Jazz,1
+2019,Paul George,Oklahoma City Thunder,1
+2019,Giannis Antetokounmpo,Milwaukee Bucks,1
+2019,Marcus Smart,Boston Celtics,1
+2019,Eric Bledsoe,Milwaukee Bucks,1
+2019,Jrue Holiday,New Orleans Pelicans,2
+2019,Klay Thompson,Golden State Warriors,2
+2019,Joel Embiid,Philadelphia 76ers,2
+2019,Draymond Green,Golden State Warriors,2
+2019,Kawhi Leonard,Toronto Raptors,2
+2019,* Official Release & voting totals,,2
+2018,Rudy Gobert,Utah Jazz,1
+2018,Anthony Davis,New Orleans Pelicans,1
+2018,Victor Oladipo,Indiana Pacers,1
+2018,Jrue Holiday,New Orleans Pelicans,1
+2018,Robert Covington,Philadelphia 76ers,1
+2018,Joel Embiid,Philadelphia 76ers,2
+2018,Draymond Green,Golden State Warriors,2
+2018,Al Horford,Boston Celtics,2
+2018,Dejounte Murray,San Antonio Spurs,2
+2018,Jimmy Butler,Minnesota Timberwolves,2
+2018,* Official Release,,2
+2017,Draymond Green,Golden State Warriors,1
+2017,Rudy Gobert,Utah Jazz,1
+2017,Kawhi Leonard,San Antonio Spurs,1
+2017,Chris Paul,Los Angeles Clippers,1
+2017,Patrick Beverley,Houston Rockets,1
+2017,Tony Allen,Memphis Grizzlies,2
+2017,Danny Green,San Antonio Spurs,2
+2017,Giannis Antetokounmpo,Milwaukee Bucks,2
+2017,Andre Roberson,Oklahoma City THunder,2
+2017,Anthony Davis,New Orleans Pelicans,2
+2017,* Voting Totals (PDF),,2
+2016,Kawhi Leonard,San Antonio Spurs,1
+2016,Draymond Green,Golden State Warriors,1
+2016,DeAndre Jordan,Los Angeles Clippers,1
+2016,Avery Bradley,Boston Celtics,1
+2016,Chris Paul,Los Angeles Clippers,1
+2016,Paul Millsap,Atlanta Hawks,2
+2016,Paul George,Indiana Pacers,2
+2016,Hassan Whiteside,Miami Heat,2
+2016,Tony Allen,Memphis Grizzlies,2
+2016,Jimmy Butler,Chicago Bulls,2
+2016,* Voting Totals (PDF),,2
+2015,Kawhi Leonard,San Antonio Spurs,1
+2015,Draymond Green,Golden State Warriors,1
+2015,Tony Allen,Memphis Grizzlies,1
+2015,DeAndre Jordan,Los Angeles Clippers,1
+2015,Chris Paul,Los Angeles Clippers,1
+2015,Anthony Davis,New Orleans Pelicans,2
+2015,Jimmy Butler,Chicago Bulls,2
+2015,Andrew Bogut,Golden State Warriors,2
+2015,John Wall,Washington Wizards,2
+2015,Tim Duncan,San Antonio Spurs,2
+2014,Joakim Noah,Chicago Bulls,1
+2014,Paul George,Indiana Pacers,1
+2014,Chris Paul,Los Angeles Clippers,1
+2014,Serge Ibaka,Oklahoma City Thunder,1
+2014,Andre Iguodala,Golden State Warriors,1
+2014,LeBron James,Miami Heat,2
+2014,Patrick Beverley,Houston Rockets,2
+2014,Jimmy Butler,Chicago Bulls,2
+2014,Kawhi Leonard,San Antonio Spurs,2
+2014,Roy Hibbert,Indiana Pacers,2
+2013,LeBron James,Miami Heat,1
+2013,Serge Ibaka,Oklahoma City Thunder,1
+2013,Tyson Chandler,New York Knicks (tie),1
+2013,Joakim Noah,Chicago Bulls (tie),1
+2013,Tony Allen,Memphis Grizzlies,1
+2013,Chris Paul,Los Angeles Clippers,1
+2013,Tim Duncan,San Antonio Spurs,2
+2013,Paul George,Indiana Pacers,2
+2013,Marc Gasol,Memphis Grizzlies,2
+2013,Avery Bradley,Boston Celtics,2
+2013,Mike Conley,Memphis Grizzlies,2
+2012,Chris Paul,Los Angeles Clippers,1
+2012,Tony Allen,Memphis Grizzlies,1
+2012,Dwight Howard,Orlando Magic,1
+2012,LeBron James,Miami Heat,1
+2012,Serge Ibaka,Oklahoma City Thunder,1
+2012,Kobe Bryant,Los Angeles Lakers,2
+2012,Rajon Rondo,Boston Celtics,2
+2012,Tyson Chandler,New York Knicks,2
+2012,Luol Deng,Chicago Bulls,2
+2012,Kevin Garnett,Boston Celtics,2
+2011,Kobe Bryant,Los Angeles Lakers,1
+2011,Kevin Garnett,Boston Celtics,1
+2011,Dwight Howard,Orlando Magic,1
+2011,LeBron James,Miami Heat,1
+2011,Rajon Rondo,Boston Celtics,1
+2011,Tony Allen,Memphis Grizzlies,2
+2011,Tyson Chandler,Dallas Mavericks,2
+2011,Andre Iguodala,Philadelphia 76ers,2
+2011,Joakim Noah,Chicago Bulls,2
+2011,Chris Paul,New Orleans Hornets,2
+2010,Kobe Bryant,Los Angeles Lakers,1
+2010,Gerald Wallace,Charlotte Bobcats,1
+2010,Dwight Howard,Orlando Magic,1
+2010,LeBron James,Cleveland Cavaliers,1
+2010,Rajon Rondo,Boston Celtics,1
+2010,Tim Duncan,San Antonio Spurs,2
+2010,Thabo Sefolosha,Oklahoma City Thunder,2
+2010,Josh Smith,Atlanta Hawks,2
+2010,Anderson Varejao,Cleveland Cavaliers,2
+2010,Dwyane Wade,Miami Heat,2
+2009,Kobe Bryant,Los Angeles Lakers,1
+2009,Kevin Garnett,Boston Celtics,1
+2009,Dwight Howard,Orlando Magic,1
+2009,LeBron James,Cleveland Cavaliers,1
+2009,Chris Paul,New Orleans Hornets,1
+2009,Tim Duncan,San Antonio Spurs,2
+2009,Metta World,Houston Rockets,2
+2009,Shane Battier,Shane Battier,2
+2009,Rajon Rondo,Boston Celtics,2
+2009,Dwyane Wade,Miami Heat,2
+2008,Kobe Bryant,Los Angeles Lakers,1
+2008,Bruce Bowen,San Antonio Spurs,1
+2008,Marcus Camby,Denver Nuggets,1
+2008,Tim Duncan,San Antonio Spurs,1
+2008,Kevin Garnett,Boston Celtics,1
+2008,Shane Battier,Houston Rockets,2
+2008,Raja Bell,Phoenix Suns,2
+2008,Dwight Howard,Orlando Magic,2
+2008,Chris Paul,New Orleans Hornets,2
+2008,Tayshaun Prince,Detroit Pistons,2
+2007,Kobe Bryant,Los Angeles Lakers,1
+2007,Bruce Bowen,San Antonio Spurs,1
+2007,Marcus Camby,Denver Nuggets,1
+2007,Tim Duncan,San Antonio Spurs,1
+2007,Raja Bell,Phoenix Suns,1
+2007,Kevin Garnett,Minnesota Timberwolves,2
+2007,Kirk Hinrich,Chicago Bulls,2
+2007,Jason Kidd,New Jersey Nets,2
+2007,Ben Wallace,Chicago Bulls,2
+2007,Tayshaun Prince,Detroit Pistons,2
+2006,Metta World,Sacramento Kings,1
+2006,Bruce Bowen,San Antonio Spurs,1
+2006,Andrei Kirilenko,Utah Jazz,1
+2006,Ben Wallace,Detroit Pistons,1
+2006,Kobe Bryant,Los Angeles Lakers (tie),1
+2006,Jason Kidd,New Jersey Nets (tie),1
+2006,Chauncey Billups,,2
+2006,Marcus Camby,,2
+2006,Tim Duncan,,2
+2006,Kevin Garnett,,2
+2006,Tayshaun Prince,,2
+2005,Tim Duncan,San Antonio Spurs,1
+2005,Bruce Bowen,San Antonio Spurs,1
+2005,Kevin Garnett,Minnesota Timberwolves,1
+2005,Ben Wallace,Detroit Pistons,1
+2005,Larry Hughes,Washington Wizards,1
+2005,Chauncey Billups,Detroit Pistons,2
+2005,Marcus Camby,Denver Nuggets,2
+2005,Andrei Kirilenko,Utah Jazz,2
+2005,Tayshaun Prince,Detroit Pistons,2
+2005,Jason Kidd,New Jersey Nets (tie),2
+2005,Dwyane Wade,Miami Heat (tie),2
+2004,Metta World,Indiana Pacers,1
+2004,Bruce Bowen,San Antonio Spurs,1
+2004,Kevin Garnett,Minnesota Timberwolves,1
+2004,Ben Wallace,Detroit Pistons,1
+2004,Kobe Bryant,Los Angeles Lakers,1
+2004,Doug Christie,Sacramento Kings,2
+2004,Tim Duncan,San Antonio Spurs,2
+2004,Andrei Kirilenko,Utah Jazz,2
+2004,Theo Ratliff,Portland Trail Blazers,2
+2004,Jason Kidd,New Jersey Nets,2
+2003,Doug Christie,Sacramento Kings,1
+2003,Kobe Bryant,Los Angeles Lakers,1
+2003,Kevin Garnett,Minnesota Timberwolves,1
+2003,Ben Wallace,Detroit Pistons,1
+2003,Tim Duncan,San Antonio Spurs,1
+2003,Metta World,Indiana Pacers,2
+2003,Bruce Bowen,San Antonio Spurs,2
+2003,Shaquille O'Neal,Los Angeles Lakers,2
+2003,Eric Snow,Philadelphia 76ers,2
+2003,Jason Kidd,New Jersey Nets,2
+2002,Jason Kidd,New Jersey Nets,1
+2002,Gary Payton,Seattle SuperSonics,1
+2002,Kevin Garnett,Minnesota Timberwolves,1
+2002,Ben Wallace,Detroit Pistons,1
+2002,Tim Duncan,San Antonio Spurs,1
+2002,Kobe Bryant,Los Angeles Lakers,2
+2002,Bruce Bowen,San Antonio Spurs,2
+2002,Doug Christie,Sacramento Kings,2
+2002,Dikembe Mutombo,Philadelphia 76ers,2
+2002,Clifford Robinson,Detroit Pistons,2
+2001,Jason Kidd,Phoenix Suns,1
+2001,Gary Payton,Seattle SuperSonics,1
+2001,Kevin Garnett,Minnesota Timberwolves,1
+2001,Dikembe Mutombo,Philadelphia 76ers,1
+2001,Tim Duncan,San Antonio Spurs,1
+2001,Kobe Bryant,Los Angeles Lakers,2
+2001,Bruce Bowen,Miami Heat,2
+2001,Doug Christie,Sacramento Kings,2
+2001,P.J. Brown,Charlotte Hornets,2
+2001,Shaquille O'Neal,Los Angeles Lakers,2
+2000,Kobe Bryant,Los Angeles Lakers,1
+2000,Gary Payton,Seattle Supersonics,1
+2000,Kevin Garnett,Minnesota Timberwolves,1
+2000,Alonzo Mourning,Miami Heat,1
+2000,Tim Duncan,San Antonio Spurs,1
+2000,Jason Kidd,Phoenix Suns,2
+2000,Eddie Jones,Charlotte Hornets,2
+2000,Scottie Pippen,Portland Trail Blazers,2
+2000,Clifford Robinson,Phoenix Suns,2
+2000,Shaquille O'Neal,Los Angeles Lakers,2
+1999,Tim Duncan,San Antonio Spurs,1
+1999,Gary Payton,Seattle SuperSonics,1
+1999,Alonzo Mourning,Miami Heat,1
+1999,Jason Kidd,Phoenix Suns,1
+1999,Karl Malone,Utah Jazz (tie),1
+1999,Scottie Pippen,Houston Rockets (tie),1
+1999,Mookie Blaylock,,2
+1999,Eddie Jones,,2
+1999,P.J. Brown,,2
+1999,Dikembe Mutombo,,2
+1999,Theo Ratliff,,2
+1998,Michael Jordan,Chicago Bulls,1
+1998,Karl Malone,Utah Jazz,1
+1998,Dikembe Mutombo,Atlanta Hawks,1
+1998,Gary Payton,Seattle SuperSonics,1
+1998,Scottie Pippen,Chicago Bulls,1
+1998,Mookie Blaylock,Atlanta Hawks,2
+1998,Eddie Jones,Charlotte Hornets,2
+1998,Tim Duncan,San Antonio Spurs,2
+1998,Charles Oakley,New York Knicks,2
+1998,David Robinson,San Antonio Spurs,2
+1997,Michael Jordan,Chicago Bulls,1
+1997,Karl Malone,Utah Jazz,1
+1997,Dikembe Mutombo,Atlanta Hawks,1
+1997,Gary Payton,Seattle SuperSonics,1
+1997,Scottie Pippen,Chicago Bulls,1
+1997,Mookie Blaylock,Atlanta Hawks,2
+1997,P.J. Brown,Miami Heat,2
+1997,Anthony Mason,Charlotte Hornets,2
+1997,Hakeem Olajuwon,Houston Rockets,2
+1997,John Stockton,Utah Jazz,2
+1996,Michael Jordan,Chicago Bulls,1
+1996,Dennis Rodman,Chicago Bulls,1
+1996,David Robinson,San Antonio Spurs,1
+1996,Gary Payton,Seattle SuperSonics,1
+1996,Scottie Pippen,Chicago Bulls,1
+1996,Mookie Blaylock,Atlanta Hawks,2
+1996,Horace Grant,Orlando Magic,2
+1996,Derrick McKey,Indiana Pacers,2
+1996,Hakeem Olajuwon,Houston Rockets,2
+1996,Bobby Phills,Cleveland Cavaliers,2
+1995,Mookie Blaylock,Atlanta Hawks,1
+1995,Dennis Rodman,San Antonio Spurs,1
+1995,David Robinson,San Antonio Spurs,1
+1995,Gary Payton,Seattle SuperSonics,1
+1995,Scottie Pippen,Chicago Bulls,1
+1995,Nate McMillan,Seattle SuperSonics,2
+1995,Horace Grant,Orlando Magic,2
+1995,Derrick McKey,Indiana Pacers,2
+1995,Dikembe Mutombo,Denver Nuggets,2
+1995,John Stockton,Utah Jazz,2
+1994,Mookie Blaylock,Atlanta Hawks,1
+1994,Charles Oakley,New York Knicks,1
+1994,Hakeem Olajuwon,Houston Rockets,1
+1994,Gary Payton,Seattle SuperSonics,1
+1994,Scottie Pippen,Chicago Bulls,1
+1994,Nate McMillan,Seattle SuperSonics,2
+1994,Horace Grant,Chicago Bulls,2
+1994,David Robinson,San Antonio Spurs,2
+1994,Dennis Rodman,San Antonio Spurs,2
+1994,Latrell Sprewell,Golden State Warriors,2
+1993,Joe Dumars,Detroit Pistons,1
+1993,Michael Jordan,Chicago Bulls,1
+1993,Hakeem Olajuwon,Houston Rockets,1
+1993,Dennis Rodman,Detroit Pistons,1
+1993,Scottie Pippen,Chicago Bulls,1
+1993,Dan Majerle,Phoenix Suns,2
+1993,Horace Grant,Chicago Bulls,2
+1993,David Robinson,San Antonio Spurs,2
+1993,Larry Nance,Cleveland Cavaliers,2
+1993,John Starks,New York Knicks,2
+1992,Joe Dumars,Detroit Pistons,1
+1992,Michael Jordan,Chicago Bulls,1
+1992,David Robinson,San Antonio Spurs,1
+1992,Dennis Rodman,Detroit Pistons,1
+1992,Scottie Pippen,Chicago Bulls,1
+1992,Patrick Ewing,New York Knicks,2
+1992,Buck Williams,Portland Trail Blazers,2
+1992,Micheal Williams,Indiana Pacers,2
+1992,Larry Nance,Cleveland Cavaliers,2
+1992,John Stockton,Utah Jazz,2
+1991,Alvin Robertson,Milwaukee Bucks,1
+1991,Michael Jordan,Chicago Bulls,1
+1991,David Robinson,San Antonio Spurs,1
+1991,Dennis Rodman,Detroit Pistons,1
+1991,Buck Williams,Portland Trail Blazers,1
+1991,Joe Dumars,Detroit Pistons,2
+1991,Dan Majerle,Phoenix Suns,2
+1991,Hakeem Olajuwon,Houston Rockets,2
+1991,Scottie Pippen,Chicago Bulls,2
+1991,John Stockton,Utah Jazz,2
+1990,Joe Dumars,Detroit Pistons,1
+1990,Michael Jordan,Chicago Bulls,1
+1990,Hakeem Olajuwon,Houston Rockets,1
+1990,Dennis Rodman,Detroit Pistons,1
+1990,Buck Williams,Portland Trail Blazers,1
+1990,Derek Harper,Dallas Mavericks,2
+1990,Rick Mahorn,Philadelphia 76ers,2
+1990,Kevin McHale,Boston Celtics,2
+1990,Alvin Robertson,Milwaukee Bucks,2
+1990,David Robinson,San Antonio Spurs,2
+1989,Joe Dumars,Detroit Pistons,1
+1989,Michael Jordan,Chicago Bulls,1
+1989,Mark Eaton,Utah Jazz,1
+1989,Dennis Rodman,Detroit Pistons,1
+1989,Larry Nance,Cleveland Cavaliers,1
+1989,Patrick Ewing,New York Knicks,2
+1989,A.C. Green,Los Angeles Lakers,2
+1989,Kevin McHale,Boston Celtics,2
+1989,Alvin Robertson,San Antonio Spurs,2
+1989,John Stockton,Utah Jazz,2
+1988,Michael Cooper,Los Angeles Lakers,1
+1988,Michael Jordan,Chicago Bulls,1
+1988,Rodney McCray,Houston Rockets,1
+1988,Kevin McHale,Boston Celtics,1
+1988,Hakeem Olajuwon,Houston Rockets,1
+1988,Fat Lever,Denver Nuggets,2
+1988,Karl Malone,Utah Jazz,2
+1988,Buck Williams,New Jersey Nets,2
+1988,Alvin Robertson,San Antonio Spurs,2
+1988,Mark Eaton,Utah Jazz (tie),2
+1988,Patrick Ewing,New York Knicks (tie),2
+1987,Michael Cooper,Los Angeles Lakers,1
+1987,Dennis Johnson,Boston Celtics,1
+1987,Alvin Robertson,San Antonio Spurs,1
+1987,Kevin McHale,Boston Celtics,1
+1987,Hakeem Olajuwon,Houston Rockets,1
+1987,Maurice Cheeks,Philadelphia 76ers,2
+1987,Derek Harper,Dallas Mavericks,2
+1987,Rodney McCray,Houston Rockets,2
+1987,Paul Pressey,Milwaukee Bucks,2
+1987,Mark Eaton,Utah Jazz,2
+1986,Maurice Cheeks,Philadelphia 76ers,1
+1986,Mark Eaton,Utah Jazz,1
+1986,Kevin McHale,Boston Celtics,1
+1986,Sidney Moncrief,Milwaukee Bucks,1
+1986,Paul Pressey,Milwaukee Bucks,1
+1986,Manute Bol,Washington Bullets,2
+1986,Dennis Johnson,Boston Celtics,2
+1986,Michael Cooper,Los Angeles Lakers,2
+1986,Bill Hanzlik,Denver Nuggets,2
+1986,Alvin Robertson,San Antonio Spurs,2
+1985,Maurice Cheeks,Philadelphia 76ers,1
+1985,Mark Eaton,Utah Jazz,1
+1985,Michael Cooper,Los Angeles Lakers,1
+1985,Sidney Moncrief,Milwaukee Bucks,1
+1985,Paul Pressey,Milwaukee Bucks,1
+1985,T.R. Dunn,Denver Nuggets,2
+1985,Dennis Johnson,Boston Celtics,2
+1985,Bobby Jones,Philadelphia 76ers,2
+1985,Akeem Olajuwon,Houston Rockets,2
+1985,Danny Vranes,Seattle SuperSonics,2
+1984,Maurice Cheeks,Philadelphia 76ers,1
+1984,Bobby Jones,Philadelphia 76ers,1
+1984,Michael Cooper,Los Angeles Lakers,1
+1984,Sidney Moncrief,Milwaukee Bucks,1
+1984,Tree Rollins,Atlanta Hawks,1
+1984,T.R. Dunn,Denver Nuggets,2
+1984,Dennis Johnson,Boston Celtics,2
+1984,Dan Roundfield,Atlanta Hawks,2
+1984,Kareem Abdul-Jabbar,Los Angeles Lakers,2
+1984,Larry Bird,Boston Celtics,2
+1983,Moses Malone,Philadelphia 76ers,1
+1983,Bobby Jones,Philadelphia 76ers,1
+1983,Dan Roundfield,Atlanta Hawks,1
+1983,Sidney Moncrief,Milwaukee Bucks,1
+1983,Maurice Cheeks,Philadelphia 76ers (tie),1
+1983,Dennis Johnson,Phoenix Suns (tie),1
+1983,T.R. Dunn,Denver Nuggets,2
+1983,Michael Cooper,Los Angeles Lakers,2
+1983,Kevin McHale,Boston Celtics,2
+1983,Tree Rollins,Atlanta Hawks,2
+1983,Larry Bird,Boston Celtics,2
+1982,Dennis Johnson,Phoenix Suns,1
+1982,Bobby Jones,Philadelphia 76ers,1
+1982,Dan Roundfield,Atlanta Hawks,1
+1982,Caldwell Jones,Philadelphia 76ers,1
+1982,Michael Cooper,Los Angeles Lakers,1
+1982,Quinn Buckner,Milwaukee Bucks,2
+1982,Sidney Moncrief,Milwaukee Bucks,2
+1982,Lonnie Shelton,Seattle SuperSonics,2
+1982,Jack Sikma,Seattle SuperSonics,2
+1982,Larry Bird,Boston Celtics,2
+1981,Dennis Johnson,Phoenix Suns,1
+1981,Bobby Jones,Philadelphia 76ers,1
+1981,Kareem Abdul-Jabbar,Los Angeles Lakers,1
+1981,Caldwell Jones,Philadelphia 76ers,1
+1981,Michael Ray Richardson,New York Knicks,1
+1981,Quinn Buckner,Milwaukee Bucks,2
+1981,George Johnson,San Antonio Spurs,2
+1981,Kermit Washington,Portland Trail Blazers,2
+1981,Dan Roundfield,Atlanta Hawks,2
+1981,Dudley Bradley,Indiana Pacers (tie),2
+1981,Michael Cooper,Los Angeles Lakers (tie),2
+1980,Dennis Johnson,Seattle SuperSonics,1
+1980,Bobby Jones,Philadelphia 76ers,1
+1980,Kareem Abdul-Jabbar,Los Angeles Lakers,1
+1980,Dan Roundfield,Atlanta Hawks,1
+1980,Michael Ray Richardson,New York Knicks (tie),1
+1980,Don Buse,Phoenix Suns (tie),1
+1980,Quinn Buckner,Milwaukee Bucks,2
+1980,Dave Cowens,Boston Celtics,2
+1980,Eddie Johnson,Atlanta Hawks,2
+1980,Kermit Washington,Portland Trail Blazers,2
+1980,Scott Wedman,Kansas City Kings,2
+1979,Dennis Johnson,Seattle SuperSonics,1
+1979,Bobby Jones,Philadelphia 76ers,1
+1979,Kareem Abdul-Jabbar,Los Angeles Lakers,1
+1979,Bob Dandridge,Washington Bullets,1
+1979,Don Buse,Phoenix Suns,1
+1979,M.L. Carr,Detroit Pistons,2
+1979,Lionel Hollins,Portland Trail Blazers,2
+1979,Eddie Johnson,Atlanta Hawks,2
+1979,Maurice Lucas,Portland Trail Blazers,2
+1979,Moses Malone,Houston Rockets,2
+1978,Lionel Hollins,Portland Trail Blazers,1
+1978,Bobby Jones,Denver Nuggets,1
+1978,Bill Walton,Portland Trail Blazers,1
+1978,Maurice Lucas,Portland Trail Blazers,1
+1978,Don Buse,Phoenix Suns,1
+1978,Quinn Buckner,Milwaukee Bucks,2
+1978,E.C. Coleman,Golden State Warriors,2
+1978,Bob Gross,Portland Trail Blazers,2
+1978,Norm Van Lier,Chicago Bulls,2
+1978,Artis Gilmore,Chicago Bulls (tie),2
+1978,Kareem Abdul-Jabbar,Los Angeles Lakers (tie),2
+1977,E.C. Coleman,Jim Brewer,1
+1977,Bobby Jones,Don Chaney,1
+1977,Bill Walton,Brian Taylor,1
+1977,Norm Van Lier,Jamaal Wilkes,1
+1977,Don Buse,Kareem Abdul-Jabbar,1
+1977,First Team,Second Team,2
+1977,E.C. Coleman,Jim Brewer,2
+1977,Bobby Jones,Don Chaney,2
+1977,Bill Walton,Brian Taylor,2
+1977,Norm Van Lier,Jamaal Wilkes,2
+1977,Don Buse,Kareem Abdul-Jabbar,2
+1976,Dave Cowens,Boston Celtics,1
+1976,John Havlicek,Boston Celtics,1
+1976,Paul Silas,Boston Celtics,1
+1976,Norm Van Lier,Chicago Bulls,1
+1976,Slick Watts,Seattle SuperSonics,1
+1976,Jim Brewer,Cleveland Cavaliers,2
+1976,Phil Smith,Golden State Warriors,2
+1976,Jim Cleamons,Cleveland Cavaliers,2
+1976,Jamaal Wilkes,Golden State Warriors,2
+1976,Kareem Abdul-Jabbar,Los Angeles Lakers,2
+1975,Kareem Abdul-Jabbar,Milwaukee Bucks,1
+1975,John Havlicek,Boston Celtics,1
+1975,Paul Silas,Boston Celtics,1
+1975,Walt Frazier,New York Knicks,1
+1975,Jerry Sloan,Chicago Bulls,1
+1975,Don Chaney,Boston Celtics,2
+1975,Dave Cowens,Boston Celtics,2
+1975,Elvin Hayes,Washington Bullets,2
+1975,Bob Love,Chicago Bulls,2
+1975,Norm Van Lier,Chicago Bulls,2
+1974,Kareem Abdul-Jabbar,Milwaukee Bucks,1
+1974,John Havlicek,Boston Celtics,1
+1974,Norm Van Lier,Chicago Bulls,1
+1974,Dave DeBusschere,New York Knicks,1
+1974,Jerry Sloan,Chicago Bulls (tie),1
+1974,Walt Frazier,New York Knicks (tie),1
+1974,Don Chaney,,2
+1974,Nate Thurmond,,2
+1974,Elvin Hayes,,2
+1974,Bob Love,,2
+1974,Dick Van Arsdale (tie),,2
+1974,Jim Price (tie),,2
+1973,Wilt Chamberlain,Los Angeles Lakers,1
+1973,John Havlicek,Boston Celtics,1
+1973,Jerry West,Los Angeles Lakers,1
+1973,Dave DeBusschere,New York Knicks,1
+1973,Walt Frazier,New York Knicks,1
+1973,Don Chaney,Boston Celtics,2
+1973,Nate Thurmond,Golden State Warriors,2
+1973,Mike Riordan,Baltimore Bullets,2
+1973,Paul Silas,Phoenix Suns,2
+1973,Norm Van Lier,Chicago Bulls,2
+1972,Wilt Chamberlain,Los Angeles Lakers,1
+1972,John Havlicek,Boston Celtics,1
+1972,Jerry West,Los Angeles Lakers,1
+1972,Dave DeBusschere,New York Knicks,1
+1972,Walt Frazier,New York Knicks (tie),1
+1972,Jerry Sloan,Chicago Bulls (tie),1
+1972,Don Chaney,Boston Celtics,2
+1972,Nate Thurmond,Golden State Warriors,2
+1972,Bob Love,Chicago Bulls,2
+1972,Paul Silas,Phoenix Suns,2
+1972,Norm Van Lier,Chicago Bulls,2
+1971,Gus Johnson,Baltimore Bullets,1
+1971,Nate Thurmond,San Francisco Warriors,1
+1971,Jerry West,Los Angeles Lakers,1
+1971,Dave DeBusschere,New York Knicks,1
+1971,Walt Frazier,New York Knicks,1
+1971,Lew Alcindor,Milwaukee Bucks,2
+1971,John Havlicek,Boston Celtics,2
+1971,Jerry Sloan,Chicago Bulls,2
+1971,Paul Silas,Phoenix Suns,2
+1971,Norm Van Lier,Chicago Bulls,2
+1970,Gus Johnson,Baltimore Bullets,1
+1970,Willis Reed,New York Knicks,1
+1970,Jerry West,Los Angeles Lakers,1
+1970,Dave DeBusschere,New York Knicks,1
+1970,Walt Frazier,New York Knicks,1
+1970,Lew Alcindor,Milwaukee Bucks,2
+1970,John Havlicek,Boston Celtics,2
+1970,Bill Bridges,Atlanta Hawks,2
+1970,Joe Caldwell,Atlanta Hawks,2
+1970,Jerry Sloan,Chicago Bulls,2
+1969,Nate Thurmond,San Francisco Warriors,1
+1969,Bill Russell,Boston Celtics,1
+1969,Jerry Sloan,Chicago Bulls,1
+1969,Dave DeBusschere,New York Knicks,1
+1969,Walt Frazier,New York Knicks,1
+1969,Rudy LaRusso,San Francisco Warriors,2
+1969,John Havlicek,Boston Celtics,2
+1969,Bill Bridges,Atlanta Hawks,2
+1969,Tom Sanders,Boston Cetlics,2
+1969,Jerry West,Los Angeles Lakers,2

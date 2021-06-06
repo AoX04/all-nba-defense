@@ -1,0 +1,19 @@
+{
+  "name": "newline_basket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "crawl": "node nba_defensive_team_crawler.js",
+    "train": "node train.js"
+  },
+  "author": "Aronis Mariano",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.6",
+    "danfojs-node": "^0.2.6"
+  }
+}
